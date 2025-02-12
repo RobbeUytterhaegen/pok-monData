@@ -1,0 +1,10 @@
+#Pokemon-data {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;   
+}
+.PokemonCard {
+    padding: 1rem;
+    background-color: red;
+    border-radius: 4px;
+}
